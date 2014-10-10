@@ -1,0 +1,3 @@
+Scrapes the weekly weather previsions from "http://www.meteo.gc.ca/city/pages/qc-c3_metric_f.html":http://www.meteo.gc.ca/city/pages/qc-147_metric_f.html for Montreal
+
+TODO: use "this page":http://www.weatheroffice.gc.ca/city/js/forecastQuickLinkArraysEn.js to get weather for all cities.
